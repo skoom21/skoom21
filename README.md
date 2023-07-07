@@ -4,8 +4,6 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/talha_lkh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/muhammad-talha-yousif) 
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="muhammad-talha-yousif" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/muhammad-talha-yousif?trk=profile-badge">Muhammad Talha Yousif</a></div>
               
 
 # 💻 Tech Stack:
