@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on : WEDIT A REDDIT CLONE<br>👯 I’m looking to collaborate on: Web Dev Projects<br>🤝 I’m looking for help with: Python<br>🌱 I’m currently learning: Ethical Hacking & Web Development<br>💬 Ask me about: C++ & Game Dev<br>⚡ Fun fact: AI is gonna replace us all (❁´◡`❁)
-
+🔭 I’m currently working on :cpp chain (my DS project) <br>👯 I’m looking to collaborate on: Web Dev Projects<br>🤝 I’m looking for help with: proxy servers and networking <br>🌱 I’m currently learning: Ethical Hacking & Web Development<br>💬 Ask me about: C++ & python or JS<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/talha_lkh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/muhammad-talha-yousif) 
@@ -12,9 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=skoom21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=skoom21&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=skoom21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=skoom21&icon=5&color=11)](https://visitcount.itsvg.in)
