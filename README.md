@@ -1,9 +1,9 @@
 <h2> Hi, I'm Talha Yousif! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Undergrad at <a href="http://www.unb.br">FAST NUCES</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+<img align='right' src="https://media.giphy.com/media/xFkgeu7dhfgqqxJqmj/giphy.gif" width="230">
+<p><em>Undergrad at <a href="http://https://khi.nu.edu.pk/">FAST NUCES</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 
-[![Linkedin: M.Talha Yousif](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-talha-yousif/)](https://www.linkedin.com/in/muhammad-talha-yousif/)
+[![Linkedin: M.Talha Yousif](https://img.shields.io/badge/-TalhaYousif-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-talha-yousif/)](https://www.linkedin.com/in/muhammad-talha-yousif/)
 [![GitHub skoom21](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/skoom21)
 
 
