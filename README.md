@@ -29,6 +29,10 @@ me = SoftwareEngineer()
 me.say_hi()
 ```
 
+### 🎶KEWL BEATS
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
+
+
 <img src="https://media.giphy.com/media/PAkrtJgGaygxbXcV9r/giphy.gif" width="60"> <em><b>I love helping out </b> so if you want to say <b>hi, dont be shy!</b> :)</em>
 
 ---
