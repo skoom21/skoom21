@@ -29,6 +29,6 @@ me = SoftwareEngineer()
 me.say_hi()
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love helping out </b> so if you want to say <b>hi, dont be shy!</b> :)</em>
+<img src="https://media.giphy.com/media/PAkrtJgGaygxbXcV9r/giphy.gif" width="60"> <em><b>I love helping out </b> so if you want to say <b>hi, dont be shy!</b> :)</em>
 
 ---
