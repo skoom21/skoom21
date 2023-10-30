@@ -14,7 +14,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=skoom21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 🎶 Kewl Beats:
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)]([https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI](https://open.spotify.com/track/2ej1A2Ze6P2EOW7KfIosZR?si=cd34c8ded56d4e5a))
 
 ---
 [![](https://visitcount.itsvg.in/api?id=skoom21&icon=5&color=11)](https://visitcount.itsvg.in)
