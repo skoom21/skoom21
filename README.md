@@ -4,7 +4,7 @@
 </em></p>
 
 [![Linkedin: M.Talha Yousif](https://img.shields.io/badge/-TalhaYousif-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-talha-yousif/)](https://www.linkedin.com/in/muhammad-talha-yousif/)
-[![GitHub skoom21](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/skoom21)
+[![GitHub skoom21](https://img.shields.io/github/followers/skoom21?label=follow&style=social)](https://github.com/skoom21)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
