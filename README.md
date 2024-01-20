@@ -9,24 +9,35 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+```cpp
+#include <iostream>
+#include <vector>
+#include <string>
 
+class SoftwareEngineer {
+public:
+    std::string name;
+    std::string role;
+    std::vector<std::string> language_spoken;
 
-class SoftwareEngineer:
+    SoftwareEngineer() {
+        name = "Talha Yousif";
+        role = "Software Engineer";
+        language_spoken = {"en_US"};
+    }
 
-    def __init__(self):
-        self.name = "Talha Yousif"
-        self.role = "Software Engineer"
-        self.language_spoken = ["en_US"]
+    void say_hi() {
+        std::cout << "Thanks for dropping by, hope you find some of my work interesting." << std::endl;
+    }
+};
 
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+int main() {
+    SoftwareEngineer me;
+    me.say_hi();
 
+    return 0;
+}
 
-me = SoftwareEngineer()
-me.say_hi()
 ```
 
 ### 🎶KEWL BEATS
