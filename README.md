@@ -14,24 +14,30 @@
 #include <vector>
 #include <string>
 
-class SoftwareEngineer {
-public:
-    std::string name;
-    std::string role;
-    std::vector<std::string> language_spoken;
+using namespace std;
 
-    SoftwareEngineer() {
+class SoftwareEngineer
+{
+public:
+    string name;
+    string role;
+    vector<string> language_spoken;
+
+    SoftwareEngineer()
+    {
         name = "Talha Yousif";
         role = "Software Engineer";
         language_spoken = {"en_US"};
     }
 
-    void say_hi() {
-        std::cout << "Thanks for dropping by, hope you find some of my work interesting." << std::endl;
+    void say_hi()
+    {
+      cout << "Thanks for dropping by, hope you find some of my work interesting." << endl;
     }
 };
 
-int main() {
+int main()
+{
     SoftwareEngineer me;
     me.say_hi();
 
