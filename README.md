@@ -1,5 +1,5 @@
 <h2> Hi, I'm Talha Yousif! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/px2ecwpjYd6fe/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/px2ecwpjYd6fe/giphy.gif" width="200">
 <p><em>Undergrad at <a href="http://khi.nu.edu.pk/">FAST NUCES</a><img src="https://media.giphy.com/media/hNDFYn9vBLncN06Wt2/giphy.gif" width="30"></br>
 </em></p>
 
@@ -46,8 +46,12 @@ int main()
 
 ```
 
-### 🎶KEWL BEATS
+<div align="center">
+
+### 🎶
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ)
+
+</div>
 
 
 <img src="https://raw.githubusercontent.com/skoom21/skoom21/output/snake.svg" alt="Snake animation" >
