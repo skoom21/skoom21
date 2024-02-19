@@ -50,6 +50,9 @@ int main()
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ)
 
 
-<img src="https://media.giphy.com/media/PAkrtJgGaygxbXcV9r/giphy.gif" width="60"> <em><b>I love helping out </b> so if you want to say <b>hi, dont be shy!</b> :)</em>
+<img src="https://raw.githubusercontent.com/skoom21/skoom21/output/snake.svg" alt="Snake animation" >
+
+###
+<em><b>I love helping out </b> so if you want to say <b>hi, dont be shy!</b> :)</em>
 
 ---
