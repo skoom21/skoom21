@@ -19,13 +19,15 @@ jobs:
 
       - name: Download SVG
         run: |
-          mkdir public
+          mkdir -p public
           curl -o public/monkeytype-readme.svg https://monkeytype-readme.zeabur.app/generate-svg/skoom10/cherry_blossom
           curl -o public/monkeytype-readme-lb.svg https://monkeytype-readme.zeabur.app/generate-svg/skoom10/cherry_blossom?lb=true
           curl -o public/monkeytype-readme-pb.svg https://monkeytype-readme.zeabur.app/generate-svg/skoom10/cherry_blossom?pb=true
           curl -o public/monkeytype-readme-lb-pb.svg https://monkeytype-readme.zeabur.app/generate-svg/skoom10/cherry_blossom?lbpb=true
 
       - name: Commit and push changes
+        env:
+          ACTIONS_PAT: ${{ secrets.ACTIONS_PAT }}
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
