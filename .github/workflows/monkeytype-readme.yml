@@ -1,34 +1,34 @@
 name: generate monkeytype readme svg
 
 on:
-    schedule:
-        - cron: "0 */6 * * *" # every 6 hours
-    workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *" # every 6 hours
+  workflow_dispatch:
 
 jobs:
-    download-svg:
-        runs-on: ubuntu-latest
-        steps:
-            - name: Checkout code
-              uses: actions/checkout@v3
+  download-svg:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
 
-            - name: Set up Node.js
-              uses: actions/setup-node@v3
-              with:
-                  node-version: "16.x"
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "16.x"
 
-            - name: Download SVG
-              run: |
-                  mkdir public
-                  curl -o public/monkeytype-readme.svg https://monkeytype-readme.zeabur.app/generate-svg/skoom10/cherry_blossom
-                  curl -o public/monkeytype-readme-lb.svg https://monkeytype-readme.zeabur.app/generate-svg/skoom10/cherry_blossom?lb=true
-                  curl -o public/monkeytype-readme-pb.svg https://monkeytype-readme.zeabur.app/generate-svg/skoom10/cherry_blossom?pb=true
-                  curl -o public/monkeytype-readme-lb-pb.svg https://monkeytype-readme.zeabur.app/generate-svg/skoom10/cherry_blossom?lbpb=true
+      - name: Download SVG
+        run: |
+          mkdir public
+          curl -o public/monkeytype-readme.svg https://monkeytype-readme.zeabur.app/generate-svg/skoom10/cherry_blossom
+          curl -o public/monkeytype-readme-lb.svg https://monkeytype-readme.zeabur.app/generate-svg/skoom10/cherry_blossom?lb=true
+          curl -o public/monkeytype-readme-pb.svg https://monkeytype-readme.zeabur.app/generate-svg/skoom10/cherry_blossom?pb=true
+          curl -o public/monkeytype-readme-lb-pb.svg https://monkeytype-readme.zeabur.app/generate-svg/skoom10/cherry_blossom?lbpb=true
 
-            - name: push monkeytype-readme.svg to the monkeytype-readme branch
-              uses: crazy-max/ghaction-github-pages@v2.5.0
-              with:
-                  target_branch: monkeytype-readme
-                  build_dir: public
-              env:
-                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add public/
+          git commit -m 'Update Monkeytype stats SVG'
+          git push -f "https://${{ secrets.ACTIONS_PAT }}@github.com/skoom21/skoom21.git" HEAD:monkeytype-readme
