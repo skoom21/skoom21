@@ -47,7 +47,7 @@ int main()
 ```
 
  <a href="https://monkeytype.com/profile/skoom10">
-   <img src="https://raw.githubusercontent.com/skoom21/skoom21/monkeytype-readme/monkeytype-readme-lbpb.svg" alt="My Monkeytype profile" />
+   <img src="https://raw.githubusercontent.com/skoom21/skoom21/monkeytype-readme/monkeytype-readme-lb-pb.svg" alt="My Monkeytype profile" />
  </a>
 
 
