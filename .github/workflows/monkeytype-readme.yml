@@ -23,5 +23,5 @@ jobs:
               with:
                   username: skoom10
                   themes: cherry_blossom
-                  target-branch: main
+                  target-branch: output
                   github-token: ${{ secrets.GITHUB_TOKEN }}
