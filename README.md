@@ -1,12 +1,6 @@
 ![header](https://github.com/skoom21/skoom21/blob/main/header.png)
 
 
-<div align ="center">
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=jld7k487x2lu8w7jm7c3p2ksu&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=jld7k487x2lu8w7jm7c3p2ksu&redirect=true)
-
-</div>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=25&center=true&vCenter=true&width=450&height=50&duration=4000&lines=Backend+Developer;Software+Engineer;Problem+Solver" />
 </h1>
