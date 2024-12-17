@@ -1,10 +1,6 @@
 ![header](https://github.com/skoom21/skoom21/blob/main/header.png)
 
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=25&center=true&vCenter=true&width=450&height=50&duration=4000&lines=Backend+Developer;Software+Engineer;Problem+Solver" />
-</h1>
-
 ```cpp
 struct SoftwareEngineer {
     const char* name = "Talha Yousif";
