@@ -18,54 +18,6 @@ struct SoftwareEngineer {
 };
 ```
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-### Current Projects
-
-```
-┌──────────────────────────────────────────┐
-│ MELO MOTION                              │
-├──────────────────────────────────────────┤
-│ AI-powered music recommendation system    │
-│ Tech: Rust, React, Spotify API           │
-└──────────────────────────────────────────┘
-
-┌──────────────────────────────────────────┐
-│ Shard Drive                              │
-├──────────────────────────────────────────┤
-│ Cloud storage solution                    │
-│ Focus: Security & Scalability            │
-└──────────────────────────────────────────┘
-```
-
-### 💻 Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,rust,python,js,react,nodejs,docker,aws,nextjs,vercel" />
-</div>
-
-### 📈 Stats
-
-<div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=skoom21&show_icons=true&theme=tokyonight" />
-</div>
-
-### 🎓 Notable Certifications
-
-```
-├── Harvard University
-│   └── CS50: Intro to Programming with Python
-├── Google
-│   └── Introduction to Generative AI
-├── IBM
-│   ├── Cloud Computing
-│   ├── Front-end Development with React
-│   └── Git and GitHub
-└── Duke University
-    └── Programming Foundations
-```
 
 ### My-Spotify
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=jld7k487x2lu8w7jm7c3p2ksu&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=jld7k487x2lu8w7jm7c3p2ksu&redirect=true)
@@ -80,15 +32,22 @@ struct SoftwareEngineer {
   <a href="mailto:muhammadtalhayousif@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/skoom21">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </div>
 
 <div align="center">
-  <h6>🚀 Made with code & coffee</h6>
+  <img height="600" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDd5czlhN2MyMXMwdTJwdjllODZleTlzOHVxcnUwajliOThzZ2M3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif"  />
 </div>
 
-```
-└── End of README ──────────────────────────
-```
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skoom21&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=skoom21&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=skoom21&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/skoom21/skoom21/output/snake.svg" alt="Snake animation" />
+
+###
