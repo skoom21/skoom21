@@ -11,12 +11,12 @@ struct SoftwareEngineer {
     const char* name = "Talha Yousif";
     const char* location = "Karachi, PK";
     std::vector<std::string> stack = {
-        "C++", "Python", "JavaScript",
-        "Rust", "Node.js", "React"
+        "Next Js", "Docker", "Firebase",
+        ,"Node.js"
     };
     
     void current_focus() {
-        std::cout << "Backend Development" << std::endl;
+        std::cout << "Full-Stack Development" << std::endl;
         std::cout << "Cloud Computing" << std::endl;
         std::cout << "System Programming" << std::endl;
     }
