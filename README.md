@@ -1,4 +1,8 @@
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=jld7k487x2lu8w7jm7c3p2ksu&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=jld7k487x2lu8w7jm7c3p2ksu&redirect=true)
+
+###
+
 ```cpp
 struct SoftwareEngineer {
     const char* name = "Talha Yousif";
@@ -18,11 +22,6 @@ struct SoftwareEngineer {
 
 
 ###
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=jld7k487x2lu8w7jm7c3p2ksu&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=jld7k487x2lu8w7jm7c3p2ksu&redirect=true)
-
-
-### 
 
 <div align="center">
   <img height="600" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDd5czlhN2MyMXMwdTJwdjllODZleTlzOHVxcnUwajliOThzZ2M3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif"  />
