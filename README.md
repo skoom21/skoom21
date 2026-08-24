@@ -6,8 +6,8 @@ struct SoftwareEngineer {
     const char* name = "Talha Yousif";
     const char* location = "Karachi, PK";
     std::vector<std::string> stack = {
-        "Next Js", "Docker", "Firebase",
-        ,"Node.js"
+        "Next Js", "Docker", "Supabase",
+        ,"Node.js", "Typescript"
     };
     
     void current_focus() {
