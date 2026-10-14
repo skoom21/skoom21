@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/desktop.svg", "destination": "/api/desktop" },
+    { "source": "/desktop-portrait.svg", "destination": "/api/desktop?layout=portrait" }
+  ]
+}

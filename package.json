@@ -1,0 +1,11 @@
+{
+  "name": "skoom21-desktop",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "assets": "node scripts/embed-assets.mjs",
+    "preview": "node scripts/preview.mjs",
+    "spotify-auth": "node scripts/spotify-auth.mjs"
+  }
+}

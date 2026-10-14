@@ -1,52 +1,9 @@
+<a href="https://github.com/skoom21/skoom21"><picture><source media="(max-width: 768px)" srcset="https://skoom21-desktop.vercel.app/desktop-portrait.svg"><img src="https://skoom21-desktop.vercel.app/desktop.svg" width="100%" alt="My Omarchy desktop, live. Workspace 1: a terminal running migratore status, my monkeytype personal bests, and my GitHub contributions as a dot matrix. Workspace 2: Orbis AI and Mello Motion in the browser. Floating over both, the now-playing card from omarchy-nowplaying-osd showing what I'm listening to on Spotify right now."></picture></a>
 
-###
+I move WordPress sites to Next.js with a pipeline that treats the old site as the spec, and I write plugins for the desktop above.
 
-```cpp
-struct SoftwareEngineer {
-    const char* name = "Talha Yousif";
-    const char* location = "Karachi, PK";
-    std::vector<std::string> stack = {
-        "Next Js", "Docker", "Supabase",
-        ,"Node.js", "Typescript"
-    };
-    
-    void current_focus() {
-        std::cout << "Full-Stack Development" << std::endl;
-        std::cout << "Cloud Computing" << std::endl;
-        std::cout << "System Programming" << std::endl;
-    }
-};
-```
+**On screen:** [Orbis AI](https://orbis-ai-pi.vercel.app) (agentic trip planning and booking) &nbsp; [Mello Motion](https://github.com/skoom21/Mello-Motion) (mood to music, on Spotify) &nbsp; [omarchy-nowplaying-osd](https://github.com/skoom21/omarchy-nowplaying-osd) (the card with the music) &nbsp; [omarchy-beszel](https://github.com/skoom21/omarchy-beszel) (the server icon in the bar) &nbsp; migratore (private) &nbsp; [monkeytype](https://monkeytype.com/profile/skoom10)
 
+**Reach me:** [LinkedIn](https://linkedin.com/in/muhammad-talha-yousif) &nbsp; [muhammadtalhayousif@gmail.com](mailto:muhammadtalhayousif@gmail.com)
 
-###
-
-<div align="center">
-  <img height="550" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDd5czlhN2MyMXMwdTJwdjllODZleTlzOHVxcnUwajliOThzZ2M3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skoom21&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="160" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=skoom21&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="160" alt="streak graph"  />
-</div>
-
-###
-
-<div a;ign="center">
-<img src="https://raw.githubusercontent.com/skoom21/skoom21/output/snake.svg" alt="Snake animation" />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://linkedin.com/in/muhammad-talha-yousif">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:muhammadtalhayousif@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</div>
-
-###
+<sub>The desktop is one SVG rendered on each visit by <a href="api/desktop.js"><code>api/desktop.js</code></a>.</sub>
